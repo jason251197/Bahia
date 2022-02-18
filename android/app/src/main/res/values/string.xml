@@ -1,0 +1,5 @@
+<resource>
+    <string name="app_name">Planet Oliver.</string>
+    <string name="facebook_app_id">802595563915544</string>
+    <string name="fb_login_protocol_scheme">fb802595563915544</string>
+</resource>

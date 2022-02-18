@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "943391834054",
+    "firebase_url": "https://planet-oliver.firebaseio.com",
+    "project_id": "planet-oliver",
+    "storage_bucket": "planet-oliver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943391834054:android:42b892c3183e63c8987cc7",
+        "android_client_info": {
+          "package_name": "com.planetoliver.appclientes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943391834054-1nonc8dufl9tq96djjhh3mnij4uulh47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.planetoliver.appclientes",
+            "certificate_hash": "f4c93974a7567035fd85e9257ed9a63b5f94cd63"
+          }
+        },
+        {
+          "client_id": "943391834054-8l5svtjnqam0ql0otd9ujjq9ugu9ucp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.planetoliver.appclientes",
+            "certificate_hash": "639dc48aff5fbd70c991f89f4228eca59573858c"
+          }
+        },
+        {
+          "client_id": "943391834054-n80igntfflqtufhmepeqql6ftr9g1aul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.planetoliver.appclientes",
+            "certificate_hash": "c1d5ae06c8596c43933ad7e98557dade17cb3b79"
+          }
+        },
+        {
+          "client_id": "943391834054-qv79ebkgsrrviersepd9nuvre2p3a9m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.planetoliver.appclientes",
+            "certificate_hash": "8b497b3417ba211aeab67cf1a24d1c50e43c994f"
+          }
+        },
+        {
+          "client_id": "943391834054-40j71s2vfmr1ie3u3d6of8qjk7u3fihp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Jyfs0kmR07rCluZiLTqBt1mNImPRAUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943391834054-40j71s2vfmr1ie3u3d6of8qjk7u3fihp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943391834054-7aoqcfdu3q8fpch7bttfanparfehkm80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.planetoliver.appclientes",
+                "app_store_id": "1542785273"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
